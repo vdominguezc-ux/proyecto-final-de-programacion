@@ -1,0 +1,17 @@
+
+package gt.umg.megagym;
+
+import javax.swing.JOptionPane;
+
+public class Principal {
+
+    public static void main(String[] args) {
+
+        JOptionPane.showMessageDialog(
+            null,
+            "Bienvenido a MegaGym"
+        );
+
+    }
+}
+
